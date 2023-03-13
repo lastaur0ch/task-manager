@@ -1,0 +1,6 @@
+
+#virtual environment
+backend/.venv/
+
+#dependencies
+frontend/node_modules/
